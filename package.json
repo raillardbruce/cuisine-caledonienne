@@ -1,0 +1,16 @@
+{
+  "name": "cuisine_nc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.1",
+    "node-sass": "^4.14.1",
+    "sass": "^1.29.0"
+  }
+}
